@@ -1,6 +1,7 @@
 # TaskGusevaJava
 
 Взаимодействие с пользователем происходит через консольное меню.  
+
 Консольное меню имеет следующий вид:
 ![image](https://github.com/KaterinaGuseva/TaskGusevaJava/assets/106666436/e92a8393-b2ec-43c4-8fb3-cead58c20a20)
 
